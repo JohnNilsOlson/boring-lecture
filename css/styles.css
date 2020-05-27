@@ -6,6 +6,11 @@
 
 .body {
   color:blue;
+  float: right;
+}
+
+.special {
+  font-style: italic;
 }
 
 .footer {
