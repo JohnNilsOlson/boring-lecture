@@ -1,19 +1,15 @@
-.intro {
-  font-style: bold;
-  background-color: green;
-  color: purple;
+.black-background {
+  background-color: black;
+  color: white;
 }
 
-.body {
-  color:blue;
-  float: right;
+.white-background {
+  background-color: white;
+  color: black;
 }
 
-.special {
-  font-style: italic;
-}
-
-.footer {
-  background-color: grey;
-  font-style: oblique;
+.box {
+  border: solid 2px;
+  background-color: lightyellow;
+  color: blue;
 }
